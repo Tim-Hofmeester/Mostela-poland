@@ -1,4 +1,4 @@
-# Mostela-poland
+# Mostela Poland
 Repository for data and code for the manuscript: T.R. Hofmeester, J. Mos & K. Zub - Comparing direct (live-trapping) and indirect (camera-trapping) approaches for estimating the abundance of weasels (<i>Mustela nivalis</i>).
 
 <b>Abstract</b>
