@@ -7,6 +7,6 @@ Information on the presence and abundance of a species is crucial for understand
 
 <b>Data</b>
 
-The weasel-data.RData file contains the detection history and covariate data as used in the manuscript. 
+The weasel-data.RData file contains the detection history and covariate data as used in the manuscript. The vole-abundance covariate is given as standardized values.
 
-The RN-model-and-correlations.R file contains the code to run the RN-model on the weasel data using the unmarked and ubms packages. 
+The RN-model.R file contains the code to run the RN-model on the weasel data using the unmarked and ubms packages. The code runs the two models presented in the manuscript, as well as some diagnostic tests and model comparison. 
